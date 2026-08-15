@@ -1,12 +1,12 @@
 backend:
   name: github
-  repo: Vex_BPM/dima-kudryashov.github.io
+  repo: snjxensjw52-ship-it/dima-kudryashov
   branch: main
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
 
-site_url: "https://vex_bpm.github.io"
+site_url: "https://snjxensjw52-ship-it.github.io/dima-kudryashov/"
 
 collections:
 
