@@ -1,12 +1,11 @@
 backend:
-  name: github
-  repo: snjxensjw52-ship-it/dima-kudryashov
+  name: git-gateway
   branch: main
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
 
-site_url: "https://snjxensjw52-ship-it.github.io/dima-kudryashov/"
+site_url: "https://dima-kudryashov.netlify.app"
 
 collections:
 
